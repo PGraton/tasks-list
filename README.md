@@ -1,16 +1,35 @@
-# tasks_list
 
-A new Flutter project.
+## ✔️  Tasks List
 
-## Getting Started
+O projeto consiste em um organizador pessoal de tarefas, com gameficação. Cada tarefa adicionada tem um nível e uma dificuldade, conforme o usuário sobe de nível ele pode verificar através de uma barra de progresso se está perto de concluir a maestria na tarefa desejada.
 
-This project is a starting point for a Flutter application.
+![](https://raw.githubusercontent.com/Kakomo/alura_flutter_curso_1/Aula_2/flutter1_gif.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## 💻  Técnicas e tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Veja mais de perto o que você aprenderá sobre** :
+- `Widgets`: Elementos básicos do Flutter.
+- `Container`: Widget simples para desenhar na tela.
+- `Stack`: Widget que permite adicionar elementos um sobre o outro.
+- `Column`: Widget que permite adicionar elementos um ao lado do outro na vertical.
+- `Row`: Widget que permite adicionar elementos um ao lado do outro na horizonta.
+- `Text`: Widget que permite escrever textos na tela.
+- `ElevatedButton`: Widget com função de botão, que permite ações no projeto.
+- `Scaffold`: Widget que usa o Material Design.
+- `Stateless Widget`: Template de Widget para criar nossos próprios Widgets estáticos.
+- `Stateful Widget`: Template de Widget para criar nossos próprios Widgets dinâmicos.
+- `Image`: Widget que permite adicionar imagens ao projeto.
+- `AnimatedOpacity`: Widget animado que muda a opacidade dos elementos no projeto.
+- `Refatoração` : Conceito para organizar e melhorar o nosso projeto para exibir aos seus colegas!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+
+
+## 🛠️ Abrir e rodar o projeto
+
+**Para executar este projeto você precisa:**
+
+- Ter uma IDE, que pode ser o  [Android Studio](https://developer.android.com/) instalado na sua máquina
+- Ter a [SDK do Flutter](https://docs.flutter.dev/get-started/install) na versão 3.0.0
+
+
