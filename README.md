@@ -1,16 +1,11 @@
-![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/alura_flutter_curso_1/Aula_2/Readme%20Template.png)
 
-# Flutter: Crie seu primeiro app
+## ✔️  Tasks List
 
-O Curso ensina o básico de Flutter para iniciantes que possuem apenas Dart como conhecimento prévio. Nesse curso estaremos explorando os conceitos de Widgets, Especificamente os Widgets Básicos do catalogo disponivel na documentação do flutter, assim como aprender o que é e como usar Stateless e Stateful Widgets.
-
-## 🔨 Projeto: Organizador de Tarefas
-
-O projeto do curso consiste em um organizador pessoal de tarefas, com gameficação. Cada tarefa adicionada tem um nível e uma dificuldade, conforme o usuário sobe de nível ele pode verificar através de uma barra de progresso se está perto de concluir a maestria na tarefa desejada.
+O projeto consiste em um organizador pessoal de tarefas, com gameficação. Cada tarefa adicionada tem um nível e uma dificuldade, conforme o usuário sobe de nível ele pode verificar através de uma barra de progresso se está perto de concluir a maestria na tarefa desejada.
 
 ![](https://raw.githubusercontent.com/Kakomo/alura_flutter_curso_1/Aula_2/flutter1_gif.gif)
 
-## ✔️ Técnicas e tecnologias
+## 💻  Técnicas e tecnologias
 
 **Veja mais de perto o que você aprenderá sobre** :
 - `Widgets`: Elementos básicos do Flutter.
@@ -38,8 +33,3 @@ O projeto do curso consiste em um organizador pessoal de tarefas, com gameficaç
 - Ter a [SDK do Flutter](https://docs.flutter.dev/get-started/install) na versão 3.0.0
 
 
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/flutter-widgets-stateless-stateful-imagens-animacoes) que desenvolve o projeto desde o começo!
-
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
